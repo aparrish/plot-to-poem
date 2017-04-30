@@ -1,0 +1,7 @@
+__pycache__
+plots
+titles
+poetry.json-stream.gz
+.ipynb_checkpoints
+plot-to-poem.html
+venv
